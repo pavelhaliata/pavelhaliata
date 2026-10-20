@@ -1,0 +1,19 @@
+{
+  "username": "pavelhaliata",
+  "name": "Pavel Haliata",
+  "terminal": "pavel@frontend",
+  "role": "Frontend Developer",
+  "stack": "React, TypeScript, Next.js, Astro",
+  "state": "Redux Toolkit, RTK Query",
+  "styling": "HTML, CSS, SCSS, Tailwind, Radix UI, Material UI, Shadcn UI",
+  "contacts": [
+    {
+      "label": "Email",
+      "value": "pavelvladimirovichvs@gmail.com"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "https://linkedin.com/in/pavel-haliata"
+    }
+  ]
+}

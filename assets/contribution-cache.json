@@ -1,0 +1,2045 @@
+{
+  "username": "pavelhaliata",
+  "author_email_hashes": [
+    "3fc4ecd8724dd0ed47d84e28c54d49b6625933a1a87f17bf8111a3480010ee85",
+    "452428400ba6b356efa0577647a7377ae91cc831c7b657937bb2b44c765e9858",
+    "b5a6a60f6e16d6808a0c165722ef46e83e5e1c09ffdfbedab92d36df2f178d90"
+  ],
+  "repositories": {
+    "inctagramProd/Inctagram__front": {
+      "fingerprint": [
+        "2025-06-11T20:06:45Z",
+        "main"
+      ],
+      "commits": {
+        "04187d79b2d1378b3e64e90bdfa11a32c376c643": {
+          "additions": 7,
+          "deletions": 1
+        }
+      }
+    },
+    "pavelhaliata/Roll-shop": {
+      "fingerprint": [
+        "2022-11-24T16:00:50Z",
+        "main"
+      ],
+      "commits": {
+        "0fbc683db883594f58ce55c2b6b6b33e07b50f85": {
+          "additions": 2,
+          "deletions": 2
+        },
+        "3a9155fafdf3f73a5031c2abd72b7a488f00117f": {
+          "additions": 38,
+          "deletions": 29
+        },
+        "18118f321cb8488d7bd93cc8b47f90deb490ff71": {
+          "additions": 63,
+          "deletions": 6
+        },
+        "c8fe8963b1acc25f3523bb43d4a2ea151f53d0c4": {
+          "additions": 9,
+          "deletions": 7
+        },
+        "68e4d2fc0b489a7a83a086d9b973ed8c6a74b890": {
+          "additions": 151,
+          "deletions": 128
+        },
+        "62f330e7c3b76915a09254290a2ed3d205de56a3": {
+          "additions": 34,
+          "deletions": 17
+        },
+        "8006a1c8419826e6bf21d63f04b1ab2e1ee62d9b": {
+          "additions": 14,
+          "deletions": 6
+        },
+        "e959fe6a0b5cff8b9ded02669bb2f4b3dce6c046": {
+          "additions": 68,
+          "deletions": 42
+        },
+        "fc7f43a79667a98c7cc7ae54499580c45188b135": {
+          "additions": 87,
+          "deletions": 55
+        },
+        "2a83156b1c1052e72ef3bad4b61c7498dde4abb7": {
+          "additions": 36,
+          "deletions": 17
+        },
+        "b1247ef5ee1f3d6c4e6409c331ffd815249ff97f": {
+          "additions": 26254,
+          "deletions": 0
+        }
+      }
+    },
+    "pavelhaliata/UpWork": {
+      "fingerprint": [
+        "2022-11-20T12:53:35Z",
+        "main"
+      ],
+      "commits": {
+        "dc785aa405117fa00ac7ed528cbb8c05d44e5738": {
+          "additions": 6,
+          "deletions": 6
+        },
+        "0c0e42e83e92df56615248d63f5421bfacef6dad": {
+          "additions": 10,
+          "deletions": 9
+        },
+        "cdda2957dedad7bf9a11937f19bac35c7019bf75": {
+          "additions": 23,
+          "deletions": 100
+        },
+        "2920620f077653fbdbb9a2c616246238904c7994": {
+          "additions": 59,
+          "deletions": 44
+        },
+        "ae1ea04eec510eb2a1c424a67fa34e3d7dd4581f": {
+          "additions": 142,
+          "deletions": 0
+        },
+        "df751dc620b8ebe2f5779023c4c5699f795be8bd": {
+          "additions": 56,
+          "deletions": 198
+        },
+        "6e37ad4426dde162609653335a83f732a9a39112": {
+          "additions": 20,
+          "deletions": 23
+        },
+        "471e0612d2b5c8e497cf8d354046a3dec523630e": {
+          "additions": 4,
+          "deletions": 2
+        },
+        "c0a9f971b1d5b69f6073ad3ecf0c913f350cb8c2": {
+          "additions": 2,
+          "deletions": 2
+        },
+        "564a073f10ef2ffd06a3965f3eda021d103e49c4": {
+          "additions": 3,
+          "deletions": 12
+        },
+        "ae96031fb880730a8ba80b87bcbeacb21815dad4": {
+          "additions": 0,
+          "deletions": 0
+        },
+        "2f6c7e53b05e915af1243f57bc5d372d91d15627": {
+          "additions": 13,
+          "deletions": 4
+        },
+        "8c04f041279f3b1bbf383808d372f7a7707eae39": {
+          "additions": 2,
+          "deletions": 0
+        },
+        "ed22650b296a4e7850ed63d525c932716a1a7b98": {
+          "additions": 84,
+          "deletions": 84
+        },
+        "ed6688622affcdb8b99e8d8e7a06bcf9fb3f7310": {
+          "additions": 52,
+          "deletions": 336
+        },
+        "634af5f4e639a5f3309fad2f2c9b058e24140e0f": {
+          "additions": 25,
+          "deletions": 11
+        },
+        "1d2db2b7e1f61cd427067405c3ef20cd5f70d544": {
+          "additions": 7397,
+          "deletions": 51
+        },
+        "f56d72869a4b7a486d98c4773e4a881afd8e7161": {
+          "additions": 2594,
+          "deletions": 146
+        },
+        "48a5e86828278db043de1e382db1e8855a5b4583": {
+          "additions": 17,
+          "deletions": 20
+        },
+        "189d75115aa292ce00a3448aa6bad977d80f0c0f": {
+          "additions": 685,
+          "deletions": 246
+        },
+        "5de9012cd804a267096550e4e51a18f3dcc84cff": {
+          "additions": 27,
+          "deletions": 38
+        },
+        "645e068a8e85d61b7840f91ca052d17613412085": {
+          "additions": 217,
+          "deletions": 328
+        },
+        "de5f77738e4eadd6c5f1264a2dc30d5113228fb8": {
+          "additions": 79,
+          "deletions": 64
+        },
+        "f988cd285dce4acf8590dc5618f1bd1a45f9cc0d": {
+          "additions": 63,
+          "deletions": 22
+        },
+        "f024bcf4289ab3ce4911af808d549f1547bef8d3": {
+          "additions": 283,
+          "deletions": 131
+        },
+        "973a5aef5741285c7f0f022c31a0b9e817b6186d": {
+          "additions": 216,
+          "deletions": 4729
+        },
+        "9747a024414aff651f9e421631ffb1accdcfcd9a": {
+          "additions": 4713,
+          "deletions": 53
+        },
+        "3580d62a55fed3af6e9bba38caeba0a34588e485": {
+          "additions": 109,
+          "deletions": 2
+        },
+        "c753f8ba643005d486eb1fd3377a47dba2af0dec": {
+          "additions": 133,
+          "deletions": 245
+        },
+        "c0c7afe8b903eebdf5fc78e075f515769e41cf2f": {
+          "additions": 110,
+          "deletions": 50
+        },
+        "66d38cd2eabe7d48f3cf6997736442a800ccbffa": {
+          "additions": 99,
+          "deletions": 29
+        },
+        "7d8b31f27e872429ca500eb0d646e29c627d77e5": {
+          "additions": 220,
+          "deletions": 44
+        },
+        "a73aaa4f844117ddd28437660823bf21fc8c51c4": {
+          "additions": 1,
+          "deletions": 1
+        },
+        "cb8e5f872819b0c44b889219f4e1c3ebbff2541b": {
+          "additions": 114,
+          "deletions": 71
+        },
+        "a55e8f40a6ec8ddf8afc2ff88808a528d416b62b": {
+          "additions": 94,
+          "deletions": 0
+        },
+        "324dd7c70c1a2a0a40255709332898bb4ed8ada1": {
+          "additions": 236,
+          "deletions": 143
+        },
+        "712a4fef3dc2b8c40a08f59be8e71884797c6afc": {
+          "additions": 122,
+          "deletions": 48
+        },
+        "3ac68bd135aa762c040f2ed4954f72af99ffe8c6": {
+          "additions": 203,
+          "deletions": 125
+        },
+        "9212243c2b2cdad24be695decf018236322d26a2": {
+          "additions": 94,
+          "deletions": 6
+        },
+        "fc63c2ba3f737e0758e1403fdf0923cd1bd278f2": {
+          "additions": 8,
+          "deletions": 10
+        },
+        "90f9bf09e7434a28da852ce914e4b34e40a74a93": {
+          "additions": 175,
+          "deletions": 29
+        },
+        "147058605cc57f8d288b3de2addea025882e8dd4": {
+          "additions": 635,
+          "deletions": 120
+        },
+        "59ac6f9acfda4aeb9f65ba13f90fd0102f770d2e": {
+          "additions": 476,
+          "deletions": 25
+        },
+        "fd7a57701f4acdfd42609e50c91f8b48d09ec21c": {
+          "additions": 513,
+          "deletions": 0
+        },
+        "f62de3a4647a6825f81f8631eea89f1bf27b533f": {
+          "additions": 124,
+          "deletions": 638
+        },
+        "29cab9cc69b5b55d7284343b8ed9ee102b218234": {
+          "additions": 235,
+          "deletions": 87
+        },
+        "2657abbe92f37e7ff0943baa83f761029f5ab3dc": {
+          "additions": 43,
+          "deletions": 16
+        },
+        "81b81e344347c122c4f5939a3d5121b11443816c": {
+          "additions": 0,
+          "deletions": 931
+        },
+        "c0280029373ba48ce43f80cd123be98a777e7b4c": {
+          "additions": 128,
+          "deletions": 230
+        },
+        "16e9715c96e64981e15630225ed2b8294ae0c66f": {
+          "additions": 400,
+          "deletions": 269
+        },
+        "622b4440d28cbc8b4483c38833c673155f3f6fb3": {
+          "additions": 642,
+          "deletions": 263
+        },
+        "f76c33a62b81a2b555d6b18669825886a991dc37": {
+          "additions": 265,
+          "deletions": 400
+        },
+        "902fed38d94c905c4093597f5e47c84a3c83872a": {
+          "additions": 125,
+          "deletions": 71
+        },
+        "3973a8ba929bcf184a25390e5bfb246aa337a1a3": {
+          "additions": 140,
+          "deletions": 76
+        },
+        "4fe20bc9641d2f61cf43de059320accafe51a1fc": {
+          "additions": 249,
+          "deletions": 192
+        },
+        "69ae9f9e9882358804b6d3929655be501c45a8cd": {
+          "additions": 138,
+          "deletions": 26
+        },
+        "5d37df1ea4655b2a509e5452020a28d4c2b4684c": {
+          "additions": 149,
+          "deletions": 66
+        },
+        "659a20a30d814ef6bcbe6b02619de91a4f4768f3": {
+          "additions": 176,
+          "deletions": 111
+        },
+        "0ac1958c9eefa35be467db773a5782869a95e182": {
+          "additions": 130,
+          "deletions": 28
+        },
+        "b28f867fa8d9a5350df2cc98c5eb5c1d6e97284d": {
+          "additions": 2,
+          "deletions": 2
+        },
+        "c074c94dfbb3ee31ea413afb1aa7c82d634e52f6": {
+          "additions": 0,
+          "deletions": 1
+        },
+        "5f53880839b2405b2b42ae7f87eeeb1033ddf365": {
+          "additions": 2,
+          "deletions": 0
+        },
+        "4cc2b60b2d67bfaf2529ff4c6ae42dcf44ee90b9": {
+          "additions": 124,
+          "deletions": 102
+        },
+        "1e522ccf5d224da0b57a75ce849676bf68a874be": {
+          "additions": 159,
+          "deletions": 80
+        },
+        "b68713fcac1d98fcc5c20f2c6b67eea72d5006aa": {
+          "additions": 1003,
+          "deletions": 15
+        },
+        "1f8788857ab1ede604fedc33fd1c86bc8a89acd2": {
+          "additions": 0,
+          "deletions": 221224
+        },
+        "77daafc11617b9d8c951af582c88a4e06bb9ba12": {
+          "additions": 220293,
+          "deletions": 0
+        },
+        "de181cf3d63063c0a349ed8612085267a02b4f6e": {
+          "additions": 74,
+          "deletions": 108
+        },
+        "fe91849ec7b3d80e4147fe218ea8f75cae7dad46": {
+          "additions": 1101,
+          "deletions": 0
+        }
+      }
+    },
+    "pavelhaliata/bnect_landing_page": {
+      "fingerprint": [
+        "2022-12-24T12:26:07Z",
+        "main"
+      ],
+      "commits": {
+        "59475e3043ad0ce73b74856dc1c184d6b67d5956": {
+          "additions": 17,
+          "deletions": 57
+        },
+        "0051e2a79b510e94e22460c65456f3ffc6af1f39": {
+          "additions": 1,
+          "deletions": 1
+        },
+        "88d99b29e846af6c6cb9c677e9fab3a2bd3aa89a": {
+          "additions": 78,
+          "deletions": 32
+        },
+        "bf431ec1e29508e87d4b42d9032904b564c8e407": {
+          "additions": 42,
+          "deletions": 0
+        },
+        "1137ac6be864552d6c2bb03eed6474e8837634e5": {
+          "additions": 125,
+          "deletions": 114
+        },
+        "96a88e303bedbc7a9613e1305776c250084cc78b": {
+          "additions": 46,
+          "deletions": 21
+        },
+        "c49c1af63618490fd667009b17c632092144f566": {
+          "additions": 59,
+          "deletions": 108
+        },
+        "17994f07c69a3f7966f97278e47a487db66eb467": {
+          "additions": 83,
+          "deletions": 62
+        },
+        "1f03a1701b764b49267f345b6d7d7f754773ac2a": {
+          "additions": 90,
+          "deletions": 70
+        },
+        "e9bfce63dc66bdb265a8305fd08215c400e6801a": {
+          "additions": 129,
+          "deletions": 31
+        },
+        "cd06711565c89e69f4be780aa462fa4180a813a3": {
+          "additions": 470,
+          "deletions": 100
+        },
+        "4310a078e25bbd69d4d1ba15e441add3144b6165": {
+          "additions": 98,
+          "deletions": 27
+        },
+        "8cbc9d984acb83a1a10acd5f0a9c002eeb9e918f": {
+          "additions": 294,
+          "deletions": 0
+        }
+      }
+    },
+    "pavelhaliata/clock_on_react": {
+      "fingerprint": [
+        "2023-11-29T19:44:34Z",
+        "main"
+      ],
+      "commits": {
+        "3b0cd00d80db853355a55f3d0bb572179b025849": {
+          "additions": 110,
+          "deletions": 4
+        },
+        "6234d6ae8702d8717a65c5ba2c338f9b054179c5": {
+          "additions": 27914,
+          "deletions": 0
+        }
+      }
+    },
+    "pavelhaliata/it-incubator-sandbox": {
+      "fingerprint": [
+        "2025-01-28T10:46:29Z",
+        "main"
+      ],
+      "commits": {
+        "58e3129f2913031eba61486d669a2257dd3abe68": {
+          "additions": 36,
+          "deletions": 0
+        },
+        "ba7bd42d5f8de2ba5ceaff6b76e4a7fcc8b52084": {
+          "additions": 50,
+          "deletions": 0
+        },
+        "2d614c8206557651a6cbcfdc919a0ab53092a0de": {
+          "additions": 84,
+          "deletions": 0
+        },
+        "caa7a95b639577fe04ab3f13cf08d9d44cf30cbf": {
+          "additions": 35,
+          "deletions": 0
+        },
+        "47e1f9784d5bdd47b621560f50aa3f39b175ba5f": {
+          "additions": 29,
+          "deletions": 0
+        },
+        "4f05cf2e20fb2e151fc1e6563e441042494689d2": {
+          "additions": 22,
+          "deletions": 0
+        },
+        "274bcef5422e28240422be3b49f38f093a1931ba": {
+          "additions": 18,
+          "deletions": 0
+        },
+        "00de3bd3ab19e3995633af4717c0b69be1295461": {
+          "additions": 39,
+          "deletions": 0
+        },
+        "d0a670549228d1f03eb9bb4aab50fb0d212fd78f": {
+          "additions": 45,
+          "deletions": 0
+        },
+        "c86dc3b4594d5cf34ca9fdba92ed6874d68c4ff5": {
+          "additions": 19,
+          "deletions": 0
+        },
+        "7d7d90c6ae5603f7a8c99d0f16e6614e6339d90c": {
+          "additions": 28,
+          "deletions": 0
+        },
+        "edffd3905267debe0382ce54f0448c7d16624c87": {
+          "additions": 33,
+          "deletions": 0
+        },
+        "bf66efd062eada3f2b5dad28a92b96e253240e3c": {
+          "additions": 22,
+          "deletions": 0
+        },
+        "2fbb3ecf7f2eec7364ae89efaed087680cdd3cfe": {
+          "additions": 31,
+          "deletions": 0
+        },
+        "84d01fa2d01356dd0a41a510dab60d5ec5d3bfca": {
+          "additions": 23,
+          "deletions": 0
+        },
+        "184636265070ec423284101d48561aac92e4f490": {
+          "additions": 50,
+          "deletions": 0
+        },
+        "32b570f252199bc6c4cd83cd18c1606749d4291d": {
+          "additions": 23,
+          "deletions": 0
+        },
+        "810286294867da59bf2a1e66333108768d7f208c": {
+          "additions": 33,
+          "deletions": 0
+        },
+        "4b3ffbeec02f0122221f7c65cc2a27d64dead888": {
+          "additions": 42,
+          "deletions": 0
+        },
+        "ad6d9d72c7858ed69b2fdec47059aa3bf6dd677d": {
+          "additions": 33,
+          "deletions": 0
+        },
+        "b4afeda09d8a54a50183f12e77a38bf63f32f43f": {
+          "additions": 31,
+          "deletions": 0
+        },
+        "6adf3ea46569bbd8f7cb953ff1b742848a3a6ecc": {
+          "additions": 24,
+          "deletions": 0
+        },
+        "4f76c119626caf171386932799ff0921105d298f": {
+          "additions": 32,
+          "deletions": 0
+        },
+        "b871635192543db9c306ecb5780e67d23eb9a6f7": {
+          "additions": 32,
+          "deletions": 0
+        },
+        "114ead39ba01619d14cdc447366f87cbea7d9f51": {
+          "additions": 19,
+          "deletions": 0
+        },
+        "5facd071feea44ef77d3a882808b8dd04cd44aeb": {
+          "additions": 29,
+          "deletions": 0
+        },
+        "55f8313901dd9aa40b71d2bbb49153746cca1150": {
+          "additions": 22,
+          "deletions": 0
+        },
+        "55d94c7bddefd712e0cf5e870e54244bd27381dd": {
+          "additions": 9,
+          "deletions": 6
+        },
+        "9bd907453a7ffa51ec328b7fb3271a29578038f4": {
+          "additions": 30,
+          "deletions": 0
+        },
+        "0355a6acc90d621e42d1c4ca73fdc5d7fbfda4ac": {
+          "additions": 73,
+          "deletions": 4
+        },
+        "091f92c5018358bd62748372aca87c4065498bd4": {
+          "additions": 40,
+          "deletions": 0
+        },
+        "ed5900fd15a3132b619c442ac9d2d7c754eab3b1": {
+          "additions": 31,
+          "deletions": 0
+        },
+        "01ce578319824ea1ad2c0ab9dfc5beee03b71b12": {
+          "additions": 42,
+          "deletions": 17
+        },
+        "a00a94b18786a1cb331f2bdda707e32ac5cd120a": {
+          "additions": 28,
+          "deletions": 0
+        },
+        "1f38a5aea58969003b09dee83faebbbc6c1cd516": {
+          "additions": 20,
+          "deletions": 0
+        },
+        "1d391b21cf3f9186920bdbf21efe6f9b8fe18a99": {
+          "additions": 40,
+          "deletions": 0
+        },
+        "2e84b8f1a6f02ac9097e83f10e505f857d2e67f3": {
+          "additions": 22,
+          "deletions": 0
+        },
+        "99463df1b827332d312c0b1012a16188c7d3d789": {
+          "additions": 21,
+          "deletions": 0
+        },
+        "fa4c17b29a78776cbd4cf4ccb8356e0a5ea4e187": {
+          "additions": 29,
+          "deletions": 0
+        },
+        "1157e47366a6149404aeaed796da111457980aea": {
+          "additions": 24,
+          "deletions": 0
+        },
+        "6316b0db78c51f2866d5fd2e79448f30371d4ff5": {
+          "additions": 17,
+          "deletions": 0
+        },
+        "e9185ee715d5fdf61b1f251d40d752c68fedf189": {
+          "additions": 61,
+          "deletions": 0
+        },
+        "4809de806e1fcc7a0dff8a47522e0bce80e1e3cd": {
+          "additions": 14,
+          "deletions": 0
+        },
+        "80faf64f591b6a8e146021b21f9a39b7be0c3920": {
+          "additions": 20,
+          "deletions": 0
+        },
+        "b818c1a178dc9fe20c1c1337be0cd9d9a4664f2c": {
+          "additions": 18,
+          "deletions": 0
+        },
+        "5c809be1f45b4a99eb7033322cd4be3f392aba23": {
+          "additions": 23,
+          "deletions": 1
+        },
+        "6f5211d8deec8c9f1805ce00b6239c62d65f7b8a": {
+          "additions": 20,
+          "deletions": 0
+        },
+        "9b8e4fb6cd752721f51d7c0516f324a227df9728": {
+          "additions": 15,
+          "deletions": 0
+        },
+        "86008422661298c06fbf6feca424ca1fceccc4aa": {
+          "additions": 25,
+          "deletions": 0
+        },
+        "bb5d1bee00123436d5f26b984c2a2cf22cd74d73": {
+          "additions": 29,
+          "deletions": 0
+        },
+        "baf47183a110f956f43cee5f099400124089f723": {
+          "additions": 35,
+          "deletions": 0
+        },
+        "0d3d933c8f6f7f0d73688161c2c930b91de4a781": {
+          "additions": 16,
+          "deletions": 0
+        },
+        "e0f34d1bd941611b7c1cd96bc1eb28dee9146fc1": {
+          "additions": 172,
+          "deletions": 158
+        },
+        "88bfe277254b33a1fccdede711dbb5332ef2102a": {
+          "additions": 28,
+          "deletions": 0
+        },
+        "ceee02aaa724fde4ae629bb2a01be18028ef5167": {
+          "additions": 27,
+          "deletions": 0
+        },
+        "7770025437ee2127a11f08c963cd3cadadcb2ad0": {
+          "additions": 27,
+          "deletions": 1
+        },
+        "1cb21d8d5be51232c4922267cfc226cc01ae3245": {
+          "additions": 12,
+          "deletions": 0
+        },
+        "db8edb6ba9041927bbc060ebd21b1aaf616e3815": {
+          "additions": 22,
+          "deletions": 0
+        },
+        "1a742c0f4d0727f0666391a55b0ce33eb1bbcd9e": {
+          "additions": 34,
+          "deletions": 0
+        },
+        "58f85b66a80aac0ed536796b168c37ecc9388901": {
+          "additions": 18,
+          "deletions": 0
+        },
+        "f69f5c174d5e4e9a88d7b0d9ae21fb5eb912253c": {
+          "additions": 18,
+          "deletions": 2
+        },
+        "0a5339a0d8ec7cc178595a58782d404e522ed8b9": {
+          "additions": 22,
+          "deletions": 0
+        },
+        "442a163488f4395b50e1fb6071c800a503d2adb1": {
+          "additions": 48,
+          "deletions": 0
+        },
+        "b2b694e5ea063e51ffb5bc5f9ed416bb711481c4": {
+          "additions": 24,
+          "deletions": 0
+        },
+        "8aa711e48d3ae9702b1c5971b7a7c455a548ff3a": {
+          "additions": 80,
+          "deletions": 3
+        },
+        "421ae38f9fb46ce699b47058b4714c574d3bc7b4": {
+          "additions": 21,
+          "deletions": 0
+        },
+        "67fe4f9c4830993c629c57f6fc514544d7a5ffd5": {
+          "additions": 16,
+          "deletions": 2
+        },
+        "4c648462d7e7ce86d78a6bc35af63a126ef4ef7e": {
+          "additions": 10,
+          "deletions": 0
+        },
+        "0bda25945683239f0abe17cc56ab1426eab0ae4e": {
+          "additions": 14,
+          "deletions": 0
+        }
+      }
+    },
+    "pavelhaliata/pavelhaliata": {
+      "fingerprint": [
+        "2026-10-20T16:51:17Z",
+        "main"
+      ],
+      "commits": {}
+    },
+    "pavelhaliata/portfolio": {
+      "fingerprint": [
+        "2025-10-04T09:46:41Z",
+        "main"
+      ],
+      "commits": {
+        "688ad4558f572db394594c4a7fa9f5a0a9524496": {
+          "additions": 7881,
+          "deletions": 25147
+        },
+        "522ca9695ea326bdf940497705e11bb2fce7beec": {
+          "additions": 8015,
+          "deletions": 7870
+        },
+        "d8482e49174497b7b09891480c96526a9413d0bd": {
+          "additions": 0,
+          "deletions": 31
+        },
+        "c6bf52416246cf4b930d30dde2e0ccf7fdabf287": {
+          "additions": 27734,
+          "deletions": 0
+        }
+      }
+    },
+    "pavelhaliata/progect_outdoor_advertising": {
+      "fingerprint": [
+        "2022-12-29T13:27:48Z",
+        "main"
+      ],
+      "commits": {
+        "f0d48d68a9e0d97b41bd32c9f7d350785d5c01cf": {
+          "additions": 558,
+          "deletions": 236
+        },
+        "6a66669bd773ce691b65cc46c452770556a34dab": {
+          "additions": 229,
+          "deletions": 110
+        },
+        "2cf499fa8dee726c85974082d4c0d3e09b102a74": {
+          "additions": 300,
+          "deletions": 47
+        },
+        "215503bd5af60b8216d9e9c54b4380183285b1ef": {
+          "additions": 1186,
+          "deletions": 625
+        },
+        "ab520153c83146dabc55af5b17cea25beb03ac11": {
+          "additions": 4,
+          "deletions": 1
+        },
+        "6390ada361d89e1adb7fe9d537a56458477d3902": {
+          "additions": 19,
+          "deletions": 12
+        },
+        "3a8b28d969a822af7a63e134ff6fb87e54fa5ff0": {
+          "additions": 2000,
+          "deletions": 0
+        }
+      }
+    },
+    "pavelhaliata/react-router-dom-practice": {
+      "fingerprint": [
+        "2023-11-29T20:46:43Z",
+        "main"
+      ],
+      "commits": {
+        "e3914ead20cfdfee712d131d167c5058b9e6e48e": {
+          "additions": 53,
+          "deletions": 98
+        },
+        "4c5b751447f8c893f733458565f2bd4e97e2ee18": {
+          "additions": 3,
+          "deletions": 3
+        },
+        "b106b81ea7b314682acbc1ae8186df171bf190e3": {
+          "additions": 2,
+          "deletions": 0
+        },
+        "ad1ed8cff8faf944ec5d6ada646ce8006d63ed9a": {
+          "additions": 7536,
+          "deletions": 7575
+        },
+        "dfd90918b1bab130cb7694c30f4e014d9956e1bf": {
+          "additions": 18,
+          "deletions": 8
+        },
+        "8b466eaf54b173948b93d36c2cb7b0cb2d894955": {
+          "additions": 16,
+          "deletions": 18
+        },
+        "2f81f7262b6069ab56bba6663627957a02645c68": {
+          "additions": 37,
+          "deletions": 50
+        },
+        "b3d0efda474cd844d59b3547e6626e291946df4d": {
+          "additions": 112,
+          "deletions": 56
+        },
+        "a50a73498eb2d626c31bc3354fd192b3228f4971": {
+          "additions": 33842,
+          "deletions": 7559
+        },
+        "6f014549d60810446d316decfc91e7ea8b15b9ef": {
+          "additions": 154,
+          "deletions": 58
+        },
+        "c703f65942f57f1a5f2bde09b75b3b57af291c66": {
+          "additions": 9603,
+          "deletions": 0
+        }
+      }
+    },
+    "pavelhaliata/sea_battle_js_learning": {
+      "fingerprint": [
+        "2022-07-25T17:24:57Z",
+        "main"
+      ],
+      "commits": {
+        "4528db4288fb8c4c9352f608e1b126a906b7fd11": {
+          "additions": 0,
+          "deletions": 85
+        },
+        "fb36bf41ee121413bffdbe06c2c2cee0e586c83b": {
+          "additions": 29,
+          "deletions": 27
+        },
+        "fbc155ee3c79cdccc2ccea837df31cdd50827855": {
+          "additions": 25,
+          "deletions": 6
+        },
+        "26c37c3be2b1cc6087ff2ffd3d759df41d9d2455": {
+          "additions": 29,
+          "deletions": 5
+        },
+        "e0031a5f7d9788a5d3fed0aee84969f511ab6ee3": {
+          "additions": 86,
+          "deletions": 22
+        },
+        "60940cf3a6823a2d7582fe81f680070f792a8968": {
+          "additions": 51,
+          "deletions": 28
+        },
+        "ed204779309bc0f6380fc65890ee66be9732977b": {
+          "additions": 17,
+          "deletions": 18
+        },
+        "b2173be2bc4351cd18e3da29b38ba35fa656478f": {
+          "additions": 25,
+          "deletions": 6
+        },
+        "a9b16cd58b9f45bd80ab286a73990d3b347ee095": {
+          "additions": 33,
+          "deletions": 32
+        },
+        "137a9afa9c3f405a3093275a5f5be8d0f286426c": {
+          "additions": 10,
+          "deletions": 1
+        },
+        "6b8c123b7fbf90bd71b5f7e5f8f45e714d36e668": {
+          "additions": 14,
+          "deletions": 9
+        },
+        "4837df5e0cfff37ebe0c1a044543e727ad844bb2": {
+          "additions": 17,
+          "deletions": 9
+        },
+        "46a5b15379e5eba2e2c81a373a66b44816e790c1": {
+          "additions": 178,
+          "deletions": 107
+        },
+        "9574b68e3f351250290d78ad184f43b456d50f5c": {
+          "additions": 42,
+          "deletions": 29
+        },
+        "611f26497e90a8f69cde69eb0ffb3d3b30fec08f": {
+          "additions": 174,
+          "deletions": 41
+        },
+        "711260d4f444e6a3bb92fbf456a96d06dd1dcbe6": {
+          "additions": 6,
+          "deletions": 6
+        },
+        "8ef63a4e1182d9f4487b709467df7ae83469e92d": {
+          "additions": 1,
+          "deletions": 1
+        },
+        "c37dde2cafea5dc4c45757f74f44b94ef83c9aa3": {
+          "additions": 135,
+          "deletions": 0
+        }
+      }
+    },
+    "pavelhaliata/social-network-app": {
+      "fingerprint": [
+        "2024-11-08T14:04:27Z",
+        "main"
+      ],
+      "commits": {
+        "8aa54de6ebd00e63bdccae6fc987e6038213d1b7": {
+          "additions": 143,
+          "deletions": 118
+        },
+        "c5290413943ef941f7ffcc9a35ba56f672239956": {
+          "additions": 26,
+          "deletions": 9
+        },
+        "d36d92912352dc27cb078b437bd99d5272324459": {
+          "additions": 33,
+          "deletions": 17
+        },
+        "d8d29621172d032a0927b26e79b4d48b0247d9b7": {
+          "additions": 56,
+          "deletions": 89
+        },
+        "c6bbc288d8623256efc57dfd426f200c22392a66": {
+          "additions": 39,
+          "deletions": 41
+        },
+        "2220389cf1afde6e447a6a4a752c24acd659bb6e": {
+          "additions": 14,
+          "deletions": 18
+        },
+        "ea829e08c3cb57f61b7adeb32fa08a3e8d5ce252": {
+          "additions": 18,
+          "deletions": 11
+        },
+        "8a7adcddf7aaf6f6227bdbc9872e839c55a2189b": {
+          "additions": 20,
+          "deletions": 7
+        },
+        "0c414a0c903257aa0c3bc17b8cb53b84c1de7e1d": {
+          "additions": 128,
+          "deletions": 15
+        },
+        "576e81edccdd4a59c66a6de1bf187b7a6ce312e2": {
+          "additions": 11,
+          "deletions": 3
+        },
+        "b6f441657f1cb7d33a005c80aa526fd1d9834057": {
+          "additions": 266,
+          "deletions": 261
+        },
+        "5dee4504d9c375609982628c574d246cf7f9b025": {
+          "additions": 46,
+          "deletions": 118
+        },
+        "f6bd3ef31a04aa35962611aa9a1e7b5c1e41f85e": {
+          "additions": 9,
+          "deletions": 2
+        },
+        "038037c91364b91cf6d6fd04be395a749e403dc8": {
+          "additions": 2,
+          "deletions": 2
+        },
+        "fea7e54c09dc5a7f034a82313ef77fd21e2c0586": {
+          "additions": 0,
+          "deletions": 30
+        },
+        "d14219e881a5422f3962e55187d250600098bec7": {
+          "additions": 10,
+          "deletions": 9
+        },
+        "82308dda77b5e43c5ddcd81e7f3cc7ff02318352": {
+          "additions": 14,
+          "deletions": 24
+        },
+        "2983ce9efef868124f65fab73df2b60c12038e03": {
+          "additions": 55,
+          "deletions": 41
+        },
+        "702fa37d18ce42dd6948be8988b210c8299f4087": {
+          "additions": 33,
+          "deletions": 22
+        },
+        "26220b1c882235a94f6753dcee9bc5e41e92c52b": {
+          "additions": 48,
+          "deletions": 33
+        },
+        "179128a28de2e13fe7a0ca98e8c94c927513de49": {
+          "additions": 85,
+          "deletions": 58
+        },
+        "5e9873fbe49fdd9dd5deb2c230db5602cfc28852": {
+          "additions": 164,
+          "deletions": 0
+        },
+        "ae7d7d6c16c9cb61b0ab12fc7faf8744b31a5d83": {
+          "additions": 772,
+          "deletions": 770
+        },
+        "877a97af6808e5a77973e5747c11e1ca101ec7a0": {
+          "additions": 83,
+          "deletions": 35
+        },
+        "1ad1580171c895df7438a6aa642798d3071595f5": {
+          "additions": 30,
+          "deletions": 2
+        },
+        "9f774ee196f2ff1e06f0db6af73d715021c0666e": {
+          "additions": 71,
+          "deletions": 73
+        },
+        "b1eae4bc8e2098338df32294ee44ad4c6d1cd075": {
+          "additions": 9,
+          "deletions": 7
+        },
+        "9495b7eaa4d005973d24a8f558d3c5d7ca879248": {
+          "additions": 227,
+          "deletions": 159
+        },
+        "6140872a7d21a5f2e00d47c35cf1ad7422630898": {
+          "additions": 29,
+          "deletions": 107
+        },
+        "94c366f4620c52d186e0d7ba16dfc4be014e3cd9": {
+          "additions": 73,
+          "deletions": 41
+        },
+        "78351d72dd98fc041662d68760957567c0f30372": {
+          "additions": 20,
+          "deletions": 10
+        },
+        "8d2e7520db62a74e36274b5c4ef49319478c3afd": {
+          "additions": 25,
+          "deletions": 4
+        },
+        "43bc0616efc4837a16ecc948c7d453b7d80dbb19": {
+          "additions": 1,
+          "deletions": 1
+        },
+        "145ca16f16f868d82b99175bb5838dbb336cb811": {
+          "additions": 1,
+          "deletions": 5
+        },
+        "61105d18a3aa67cb53e6e87063d7f4012ca1a4aa": {
+          "additions": 150,
+          "deletions": 110
+        },
+        "386df6a990fd4244980be19d3cd7e5561b10da82": {
+          "additions": 42,
+          "deletions": 20
+        },
+        "7969210e7b3c306d9069a0dc8663646694d76bd6": {
+          "additions": 45,
+          "deletions": 153
+        },
+        "13a1fb4e63d906c459240b7df7b65ee882e78e6a": {
+          "additions": 10,
+          "deletions": 4
+        },
+        "424253c03a542b2d1d168e578dad9e3a7e5399f4": {
+          "additions": 33,
+          "deletions": 14
+        },
+        "e03447e0b4e8de7303c2c2033242d59b663765eb": {
+          "additions": 194,
+          "deletions": 154
+        },
+        "01573b50ee159bff6ea005e97271ab8361bcc8e2": {
+          "additions": 54,
+          "deletions": 31
+        },
+        "f61032613ad18e0303863840c7743b12194834cd": {
+          "additions": 21,
+          "deletions": 20
+        },
+        "5df6a295e22e4cd14618ff4b935fd1959284ff80": {
+          "additions": 32,
+          "deletions": 1
+        },
+        "3aa9372e904617768b1952c09b40e5aa097775d4": {
+          "additions": 204,
+          "deletions": 146
+        },
+        "fb71e7d600f664933fea43a0bd55013c6791b14d": {
+          "additions": 317,
+          "deletions": 273
+        },
+        "b697bc1b2641d0f9303512a6dd83f4bf1e502f79": {
+          "additions": 14,
+          "deletions": 1
+        },
+        "6791b96967a2e2335da1701404345d242128ed4b": {
+          "additions": 18,
+          "deletions": 34
+        },
+        "90d281d33bf126010e760f9635873e20ab328a85": {
+          "additions": 160,
+          "deletions": 131
+        },
+        "859ea6016b523d2bdcd7eeca63c8c38dd4beff02": {
+          "additions": 70,
+          "deletions": 35
+        },
+        "185c073fc1c9b70f24657944a24b3b947cf9b1bd": {
+          "additions": 13,
+          "deletions": 5
+        },
+        "7afd8233955307cbbcf7d988ed45e7cd38d63751": {
+          "additions": 21,
+          "deletions": 10
+        },
+        "1e5ad0f50a76c0b4edfcf4a73c95c452f281687e": {
+          "additions": 95,
+          "deletions": 12
+        },
+        "479e1ffd512d0acf084e998f4e7db71a07270cac": {
+          "additions": 53,
+          "deletions": 28
+        },
+        "eb846c4388b4050c3cdc19bc9dbcfe8bde90791d": {
+          "additions": 215,
+          "deletions": 41
+        },
+        "089e04ea3b2879161b3e6502b9eab7f3c16ae973": {
+          "additions": 65,
+          "deletions": 44
+        },
+        "9382f5c717fa12fa45817373185998fafc345ba6": {
+          "additions": 178,
+          "deletions": 52
+        },
+        "552ee7f340a9a17a07da3acee0ededad802e9746": {
+          "additions": 226,
+          "deletions": 94
+        },
+        "4e8b52c415bcf389a5551485f48bc86628cf6f25": {
+          "additions": 283,
+          "deletions": 306
+        },
+        "40aa3688c5e7b40f613c4bb78fc089d0b106f315": {
+          "additions": 213,
+          "deletions": 31
+        },
+        "99196a1183e021dd26bc5d5da212041cc5151827": {
+          "additions": 92,
+          "deletions": 58
+        },
+        "eb5d28e8253b9f819d012cffbd4e24544ec8dac9": {
+          "additions": 24,
+          "deletions": 12
+        },
+        "075082e7a0bba4c092ca909bce2e8e77ce43170c": {
+          "additions": 89,
+          "deletions": 25
+        },
+        "0332250ebef559d940fa25e893b902bf824c818d": {
+          "additions": 134,
+          "deletions": 117
+        },
+        "25e39d2223a4d4e3bc898bf891f9db52722eb6cf": {
+          "additions": 114,
+          "deletions": 18
+        },
+        "d46b6bc02433f281d75444623cb0db1f91949bbb": {
+          "additions": 6,
+          "deletions": 0
+        },
+        "0d6ebd0d155ea2c115f71b6ba2f00030cab07512": {
+          "additions": 108,
+          "deletions": 12
+        },
+        "b2b1da37f5badcef612516cdc73d466a29904746": {
+          "additions": 72,
+          "deletions": 16
+        },
+        "ac3b014c16bc59c6cec8ddf37ab169600c8867ee": {
+          "additions": 51,
+          "deletions": 7
+        },
+        "e51a9b8b5b23103415590a7821ca54d89f52de89": {
+          "additions": 78,
+          "deletions": 1
+        },
+        "a79124525ccad39fae659d20229bb2781d6da48a": {
+          "additions": 13,
+          "deletions": 1
+        },
+        "c06016f25171ba6fb329195e874b797c226ddb8b": {
+          "additions": 307,
+          "deletions": 304
+        },
+        "d1d02d7ae43add774071acc416cd2227d19e012a": {
+          "additions": 42,
+          "deletions": 35
+        },
+        "5583eb6fbb9b6cb264924bc18904d79580595d6f": {
+          "additions": 211,
+          "deletions": 149
+        },
+        "b7f8752474b650c9c51cc61e79c7b6f316e4d91e": {
+          "additions": 110,
+          "deletions": 76
+        },
+        "55562c7cc0a73ab27e587b64bd89a05452946049": {
+          "additions": 84,
+          "deletions": 44
+        },
+        "fa4d2ec8f50468f04d304f6f8e5a8cc1f5b8267c": {
+          "additions": 63,
+          "deletions": 20
+        },
+        "c36fa28c72134592e697e12090ffb839bc3469b8": {
+          "additions": 130,
+          "deletions": 39
+        },
+        "c6b00a391e5a6e3ea44d1f411ee0ea063ae81b21": {
+          "additions": 35,
+          "deletions": 25
+        },
+        "faae9d02d7d877505efc5c7a76d24421d6e131d5": {
+          "additions": 186,
+          "deletions": 73
+        },
+        "da151204e5258735b94360463865d8079647d04f": {
+          "additions": 42,
+          "deletions": 52
+        },
+        "2cbe3cdc95e9e64a38ab29cdfbdc11eaa33322e2": {
+          "additions": 170,
+          "deletions": 54
+        },
+        "46a9ebd30f5332920233ef28a52d46e59b6c9f0a": {
+          "additions": 808,
+          "deletions": 108
+        },
+        "dc9ed95c979dfec9c9ae98f0fe4c5536f3936065": {
+          "additions": 733,
+          "deletions": 958
+        },
+        "3cac8ad253d2c824496bd0377bc504c7a08d05a6": {
+          "additions": 2132,
+          "deletions": 0
+        }
+      }
+    },
+    "pavelhaliata/task_manager": {
+      "fingerprint": [
+        "2024-02-28T19:57:03Z",
+        "main"
+      ],
+      "commits": {
+        "f295c2823d7c96d79b54fe0b3feb998a0fcd0a9d": {
+          "additions": 2,
+          "deletions": 2
+        },
+        "74db315b2f157f129a9edfd1bffc9a52ca622727": {
+          "additions": 0,
+          "deletions": 0
+        },
+        "a087a37ca8ccca307636af66ad9c7a9c20136b5a": {
+          "additions": 1,
+          "deletions": 1
+        },
+        "cbe8c11893f02591da0401db1bfcdc4c563b935c": {
+          "additions": 11463,
+          "deletions": 11789
+        },
+        "51f598f755897a1f97f1e4e7b9516e5a6b85286a": {
+          "additions": 0,
+          "deletions": 0
+        },
+        "102104ab91a5dd6868c681d9d67f4b3b08c89027": {
+          "additions": 5,
+          "deletions": 0
+        },
+        "e6d39143fafe12074750a039aeed2eed5b500fc0": {
+          "additions": 41,
+          "deletions": 29
+        },
+        "2cb4616798e789db9ef5856061a84bc167a96f1a": {
+          "additions": 5,
+          "deletions": 6
+        },
+        "0286841452ac41cd0997b08b277ee6c809dfc3b6": {
+          "additions": 127,
+          "deletions": 88
+        },
+        "ec8ae0253ea024d7b8db6da48f461ebc550d904a": {
+          "additions": 558,
+          "deletions": 519
+        },
+        "c12a1ee71302bd3c07de3261fc3880348e24d37b": {
+          "additions": 4,
+          "deletions": 2
+        },
+        "da62c79a9358c8dc7a61d9fd39d8d23bb9f4b47f": {
+          "additions": 513,
+          "deletions": 612
+        },
+        "184c9a8b35f8958ccbaa7ce49dbe051640ead8cc": {
+          "additions": 246,
+          "deletions": 211
+        },
+        "523a2f73fa43ed19481602a8ec239cdbcf8bf2fc": {
+          "additions": 77,
+          "deletions": 74
+        },
+        "7a789fd071a6f4cccd3af16487b6f9485c8dfec3": {
+          "additions": 11,
+          "deletions": 11
+        },
+        "7cf20b3e8c7e9a2eb02ce3a1669a3ada364b7065": {
+          "additions": 62,
+          "deletions": 69
+        },
+        "704e9a64dd638a7ba5078b867de553b3eb83f77c": {
+          "additions": 76,
+          "deletions": 55
+        },
+        "343385d425017d55563409c3b9ccfca7febb69c2": {
+          "additions": 117,
+          "deletions": 164
+        },
+        "2f80882d3e2f01662e64590e65a3423553e6bc49": {
+          "additions": 7,
+          "deletions": 7
+        },
+        "858d5722b07c7fb0701f77713a6e3394a5921fac": {
+          "additions": 30,
+          "deletions": 92
+        },
+        "84c7891dfd2a7dfc2dfd29804db0bf6a0b8f3b0d": {
+          "additions": 58,
+          "deletions": 54
+        },
+        "7bbc43767ab35d512b463da6064d38b259d688c2": {
+          "additions": 47,
+          "deletions": 108
+        },
+        "4fdc9191a03f4381dd330d334887a4bb483fd784": {
+          "additions": 97,
+          "deletions": 229
+        },
+        "1e3136ea2e550f42f41850193a88e43a6aee92cc": {
+          "additions": 66,
+          "deletions": 56
+        },
+        "35078b2a32608937e702bac25c0c855fef3c0432": {
+          "additions": 87,
+          "deletions": 26
+        },
+        "ad79852c1ad4bd8171584abe4e9f5c5ef46e9c9c": {
+          "additions": 202,
+          "deletions": 210
+        },
+        "52f20345b60f85b7e3f930811f4e26c7c03f22a4": {
+          "additions": 183,
+          "deletions": 110
+        },
+        "8e4767c67f82ef8a5fce2008e25a4299e803dd0e": {
+          "additions": 4256,
+          "deletions": 47543
+        },
+        "16c1a46b7acf1d507f49883d52d15f24ec3a95b8": {
+          "additions": 33,
+          "deletions": 24
+        },
+        "75e50788fae8b6253c879de19ca2c381dabdcfca": {
+          "additions": 11902,
+          "deletions": 12234
+        },
+        "233a93e1d7726339ce6434a94ccdefda9c58ece1": {
+          "additions": 104,
+          "deletions": 58
+        },
+        "1f22491fe8463d18efc1a8ca09c278f7d8c03131": {
+          "additions": 56693,
+          "deletions": 11933
+        },
+        "7b9ad2108b9d90298b87f4e97d44975c3d74777e": {
+          "additions": 17,
+          "deletions": 29
+        },
+        "95aa5c0cb82857701da91b749ff2a838dfc1dc27": {
+          "additions": 11,
+          "deletions": 107
+        },
+        "5f5699977f0ce987e60bb111f42850698199e8a4": {
+          "additions": 108,
+          "deletions": 0
+        },
+        "b60f9c6336990b1aa105a10a550bf63c246c826d": {
+          "additions": 77,
+          "deletions": 17
+        },
+        "4b364591e678e6b154d78fd26d6ff5454ebece66": {
+          "additions": 38,
+          "deletions": 6
+        },
+        "739630662f7f426c765bbc0bdb356b17e229e104": {
+          "additions": 19,
+          "deletions": 6
+        },
+        "ddf0db7c4935dfb364231b059ef6d1551294e2a8": {
+          "additions": 638,
+          "deletions": 453
+        },
+        "4324ed986d94a724e9aca959e51e744250d1fff0": {
+          "additions": 111,
+          "deletions": 139
+        },
+        "233c01718635ecb0ff93113f0623412378bb0116": {
+          "additions": 4,
+          "deletions": 8
+        },
+        "ab35dabaab39d89480c3bf63a2cbfefc532e0980": {
+          "additions": 208,
+          "deletions": 214
+        },
+        "433daa055a7f944ff928d966ff68da4a0c5ea4c8": {
+          "additions": 73,
+          "deletions": 55
+        },
+        "388bfb5208f9ee1726216173be173d8ec6f0e21b": {
+          "additions": 97,
+          "deletions": 52
+        },
+        "81580d6090e4196b3a92315bdadb0a5155db5692": {
+          "additions": 11828,
+          "deletions": 54834
+        },
+        "2b947490c6d81fc4b314b7303f65743cdd1d0baa": {
+          "additions": 189,
+          "deletions": 35
+        },
+        "19ba3d9fd240440d0b87e27e9f666bafc62c45e1": {
+          "additions": 37,
+          "deletions": 63
+        },
+        "1640eb3c548008f4eaf2266ed4c6eb07818453eb": {
+          "additions": 12634,
+          "deletions": 11967
+        },
+        "8c13cd47892f583023da304d4d18a5bcc9c8a33a": {
+          "additions": 67,
+          "deletions": 14
+        },
+        "e95419d0107f9f966f004d912f7fcd2ae08b2bb9": {
+          "additions": 11789,
+          "deletions": 11443
+        },
+        "4dba68248329d02a3271ecbc8398d718b75d44e8": {
+          "additions": 11841,
+          "deletions": 12058
+        },
+        "87f45c4e42087d9033fd8114ad2bd5e09e7f7eb6": {
+          "additions": 0,
+          "deletions": 0
+        },
+        "02960ba0ada6d5c917713a508fdd64bf5d28a513": {
+          "additions": 247,
+          "deletions": 170
+        },
+        "2619628fa84b7a6fce1f0f803bcc3d9af95c6663": {
+          "additions": 150,
+          "deletions": 149
+        },
+        "ca744b0470dc4e2f4e58fa4f9771c319bdd072ff": {
+          "additions": 100,
+          "deletions": 76
+        },
+        "8b8421385c8a94c4a937cd1232965b2000c09883": {
+          "additions": 23,
+          "deletions": 30
+        },
+        "409afa13a614e60e189b6e03b0ad3a0500c56106": {
+          "additions": 31,
+          "deletions": 13
+        },
+        "c853991b2368cf4ba1b94fc8900bd3c03df4ae89": {
+          "additions": 94,
+          "deletions": 23
+        },
+        "30348358498d868ec4aa416d054cf33ba49dafd1": {
+          "additions": 21,
+          "deletions": 23
+        },
+        "0387084042b1b862857ce89b28d872aa2fd00c0d": {
+          "additions": 12387,
+          "deletions": 12365
+        },
+        "fa63589712e577ed0258b538581176aa45112840": {
+          "additions": 950,
+          "deletions": 818
+        },
+        "c6bf824233caa61ad0d41e9bee8f3459bc5dbdff": {
+          "additions": 876,
+          "deletions": 864
+        },
+        "c6065033d229c1d87fdf74b81975b8adfd1875ee": {
+          "additions": 0,
+          "deletions": 0
+        },
+        "98328b0c7c56ff5c5e28d0e45159895ebea6d206": {
+          "additions": 0,
+          "deletions": 0
+        },
+        "484c0ded172ce757bbf4891c6bdfe094cbc7a7e1": {
+          "additions": 175,
+          "deletions": 273
+        },
+        "a9f9f7d3e58ffec15c811f4065175aa8e4e2d07f": {
+          "additions": 175,
+          "deletions": 273
+        },
+        "a76c3827916df9e783b3df1cf0d99466c3a47fe8": {
+          "additions": 272,
+          "deletions": 295
+        },
+        "98dbde4d82eea8f4d2f2d8eccd23fdc6cc24de62": {
+          "additions": 790,
+          "deletions": 320
+        },
+        "d73a4348bfbefa92259c2fdb77d17bcd63dd6049": {
+          "additions": 31,
+          "deletions": 7
+        },
+        "6b24c1d48fa9029f1a328fc40269728517f74f99": {
+          "additions": 11670,
+          "deletions": 12035
+        },
+        "708e230dbb3e93f0df60ceab85f9293c3ede0e20": {
+          "additions": 0,
+          "deletions": 0
+        },
+        "7341747f3532594a0f7f5fe3f9c423420500166d": {
+          "additions": 1,
+          "deletions": 2
+        },
+        "b0261c867838769e45d279f6e43a14df009f3a94": {
+          "additions": 394,
+          "deletions": 1
+        },
+        "7b9450db75430fc16bab344e9625059c525d0926": {
+          "additions": 0,
+          "deletions": 123
+        },
+        "8de42d46cd38a759c190e5e5122713fb023696db": {
+          "additions": 6,
+          "deletions": 22
+        },
+        "db14483f9ba0154b424f6a39940d1b6d0a7bf5bc": {
+          "additions": 2,
+          "deletions": 2
+        },
+        "4da6913f733cd3c87002dbc98858a20888e66787": {
+          "additions": 0,
+          "deletions": 0
+        },
+        "140242bd9cc932e8cc1b4803b98692f9aa5c1652": {
+          "additions": 101,
+          "deletions": 144
+        },
+        "fe9f76e0927abaab8d5ba7a9d6815447bf8bfd86": {
+          "additions": 35,
+          "deletions": 32
+        },
+        "31db4ff560114c98335cfd17408744d3f9db2f04": {
+          "additions": 8,
+          "deletions": 9
+        },
+        "5bf0f93bdbeec177bad7599ab4016a54e091bc76": {
+          "additions": 19,
+          "deletions": 10
+        },
+        "9692330ce976ea7ff2471ad31899d19c1239ecb5": {
+          "additions": 83,
+          "deletions": 46
+        },
+        "b59759c49f639ad316e946aa7aa3e7f83aa88aa4": {
+          "additions": 106,
+          "deletions": 241
+        },
+        "6db5a8b67a31bdbd32dd500c9250b1fe3716202a": {
+          "additions": 15,
+          "deletions": 18
+        },
+        "5a3c8f35343ae34f98f66658f03791f34ee29d3b": {
+          "additions": 12129,
+          "deletions": 11644
+        },
+        "ab5ffe94afa15a14d5661046deb0588ca44ba9e7": {
+          "additions": 12,
+          "deletions": 7
+        },
+        "a485b9d555cf922fe808efe2a67801f8e90a9836": {
+          "additions": 0,
+          "deletions": 0
+        },
+        "9c338766ef7bc5dd385839e317c06667fa0f816c": {
+          "additions": 328,
+          "deletions": 367
+        },
+        "9ad932582a491cfa957d4b12c3121d17ed09801e": {
+          "additions": 0,
+          "deletions": 0
+        },
+        "4695a04891a48253962586fcc52a9f180fd8352c": {
+          "additions": 100,
+          "deletions": 308
+        },
+        "4c3c4517dc1a8551af9ea75ab865100767d5d49d": {
+          "additions": 0,
+          "deletions": 3
+        },
+        "35ee5a922d3d081a01cac3f8daa109f0e389c589": {
+          "additions": 0,
+          "deletions": 0
+        },
+        "37efb38f97101387a7e5e27f1e12baeab7f5a43a": {
+          "additions": 227,
+          "deletions": 27
+        },
+        "3ee830a562600838d3ab92a104d0c0423409e7d0": {
+          "additions": 160,
+          "deletions": 105
+        },
+        "8bb1323e2eefe65025cbf0905b6e1042a3d61b05": {
+          "additions": 51,
+          "deletions": 3
+        },
+        "60885c3c25eb211ea5d8ed8958926f985b6dc0dc": {
+          "additions": 0,
+          "deletions": 0
+        },
+        "c0c3c8dbcd0bb75ff355b78764800abf140d69fc": {
+          "additions": 2,
+          "deletions": 2
+        },
+        "fe6a359798005118ff62a87840b6d3930b88bf78": {
+          "additions": 196,
+          "deletions": 83
+        },
+        "97f30cba551b7e40c89ad8c16412fbbd6fad479b": {
+          "additions": 123,
+          "deletions": 54
+        },
+        "25bd264abd9d531af6a2b5ebc61cb93dcf101704": {
+          "additions": 87,
+          "deletions": 0
+        },
+        "6076c2ce07ba0edea81a74b4911933f5c88d90a7": {
+          "additions": 156,
+          "deletions": 54
+        },
+        "8d98bf2905408d6ac6c04b9e618cba185fcc5699": {
+          "additions": 11734,
+          "deletions": 12062
+        },
+        "c2dadc1e8f9fcff0b5e93f3b1faef7017b2183e0": {
+          "additions": 719,
+          "deletions": 435
+        },
+        "8ea039b9698835a42181f73dd8dacd1a56a66ad2": {
+          "additions": 84,
+          "deletions": 207
+        },
+        "50c4cf1af61542cfac5273330d44497feccac557": {
+          "additions": 62,
+          "deletions": 41
+        },
+        "ccc5ca21fc83b15a8d5420d925ff7170c4f7f455": {
+          "additions": 9,
+          "deletions": 1
+        },
+        "0590095c745943e3b580d7c9076e914b8558a6f7": {
+          "additions": 40,
+          "deletions": 28
+        },
+        "ac96bfa8182421ebac7863527f247874352573aa": {
+          "additions": 27,
+          "deletions": 42
+        },
+        "0a1087761ac44720a3e72f86e04255a3ea695ccf": {
+          "additions": 111,
+          "deletions": 84
+        },
+        "b160f431198e40de6ff9519e59fa5f74223eee53": {
+          "additions": 360,
+          "deletions": 334
+        },
+        "7872f9580a0f5b849e9d3821ed1adaa38c7ff09f": {
+          "additions": 12765,
+          "deletions": 11557
+        },
+        "7eb05806b675b413d138f1b9131ec4c53a08c893": {
+          "additions": 11447,
+          "deletions": 11798
+        },
+        "6a9fd3f660af4b92afacb6de0db1e088f6d704b8": {
+          "additions": 11793,
+          "deletions": 11460
+        },
+        "63f1bd9089063892912834513d1a33fe90d9873e": {
+          "additions": 102,
+          "deletions": 87
+        },
+        "a1ccf50cafaedc11334d9ac6b84275307abf8251": {
+          "additions": 243,
+          "deletions": 194
+        },
+        "921ea81636d0bc8a71e39fbd71d0773aa0714e98": {
+          "additions": 2,
+          "deletions": 1
+        },
+        "705693e0f3c83348c23a865272b31073b780f7a6": {
+          "additions": 96,
+          "deletions": 52
+        },
+        "e3479cb2f130a9fc030434a67ed020df1b139c49": {
+          "additions": 97,
+          "deletions": 25
+        },
+        "37b70a40199abb0447407b82abc8d041e51971d8": {
+          "additions": 21,
+          "deletions": 14
+        },
+        "0b9c8848bf5c7e0ba849d6b080b949f46c7ce0d4": {
+          "additions": 204,
+          "deletions": 118
+        },
+        "49443646892653c4de773bfc4f16df6f30c9efba": {
+          "additions": 11684,
+          "deletions": 11972
+        },
+        "024a8f22e94e8c040194dddc8e491c4546fe6c23": {
+          "additions": 1122,
+          "deletions": 151
+        },
+        "0d93929c54090c222b1a4d4628a6d5564a8e43a4": {
+          "additions": 12034,
+          "deletions": 11717
+        },
+        "14c35d4444a6dfa0f2839e1a26c82126dd8b2eb1": {
+          "additions": 11536,
+          "deletions": 11819
+        },
+        "619dc9b6825a30b8bdca86cb260f18c24e78bfdb": {
+          "additions": 69,
+          "deletions": 159
+        },
+        "8387de403614fd5f943b583285b2c3f5b27eee82": {
+          "additions": 29,
+          "deletions": 29
+        },
+        "eaa7aca6c08e8844d2c842bac4bb82b69ed0a1dc": {
+          "additions": 12811,
+          "deletions": 11410
+        },
+        "c477cd23e3a44966378ecafb3595ec086ceebd70": {
+          "additions": 35,
+          "deletions": 10
+        },
+        "8fa774f5b548805bc559376bf1b1fd852dc298d9": {
+          "additions": 156,
+          "deletions": 57
+        },
+        "2662d5bd6bf034d8ede66f3ada172d74b8ad1cf7": {
+          "additions": 67,
+          "deletions": 16
+        },
+        "36ddca6b09be7334daa21252caf6bf71d96f7c6f": {
+          "additions": 44,
+          "deletions": 26
+        },
+        "3b27bf127c2eab1fa4b2e547cfdf9d5a0a86db64": {
+          "additions": 46,
+          "deletions": 17
+        },
+        "d2f14470edef155b0480775621e54cdfe3a83eba": {
+          "additions": 31,
+          "deletions": 13
+        },
+        "1a98b93d56c538b34b06e419a6db0ad9e3267781": {
+          "additions": 5,
+          "deletions": 5
+        },
+        "807927671531949b0e6c3472ff6fd44c831f82f4": {
+          "additions": 32,
+          "deletions": 14
+        },
+        "814ed0b0f1e753f6f7d09e4fce83ffdd9c1f9fef": {
+          "additions": 51,
+          "deletions": 39
+        },
+        "5e9fe1ad26fa2eefd827f4baecb8f87de16e8bf7": {
+          "additions": 76,
+          "deletions": 14
+        },
+        "baf03947a9a09866ac1ae41666297fe9340d2d19": {
+          "additions": 165,
+          "deletions": 126
+        },
+        "5e80f8d990a051dd318b8c47ad8305663937d90b": {
+          "additions": 0,
+          "deletions": 0
+        },
+        "d79689075a22a296551bf3814234de8f7a3c61ba": {
+          "additions": 93,
+          "deletions": 75
+        },
+        "52a45e78ac58479cc397ede56395531a31823507": {
+          "additions": 46,
+          "deletions": 33
+        },
+        "95a40267feff19c3250cca84d1059466e4d5a73f": {
+          "additions": 27,
+          "deletions": 5
+        },
+        "bcce56a1f3c4e37ad82ad59719aa7cadfa78a2ad": {
+          "additions": 34,
+          "deletions": 16
+        },
+        "12c95f60317477adbddb84aa268686769b380a69": {
+          "additions": 101,
+          "deletions": 68
+        },
+        "60e18b55b93d91cad4761e920342d92b30e45f5b": {
+          "additions": 20,
+          "deletions": 20
+        },
+        "9696c4cc79c5eece9d0a9d958eba467eba06b46c": {
+          "additions": 52970,
+          "deletions": 0
+        }
+      }
+    },
+    "pavelhaliata/testTaskValantis": {
+      "fingerprint": [
+        "2024-03-11T19:10:52Z",
+        "main"
+      ],
+      "commits": {
+        "962c7fa1d8a3ab3c9b8d8945b3a32ccf58028101": {
+          "additions": 2,
+          "deletions": 3
+        },
+        "f5a2fc5e41fa14de45fd325de526e4fa6c86ec90": {
+          "additions": 51,
+          "deletions": 29
+        },
+        "dce5439476e4f0bd16affaa9a40a5a507c4ac16c": {
+          "additions": 377,
+          "deletions": 215
+        },
+        "3f4c054f997541f2ac9213615e774e5edc4bbbc9": {
+          "additions": 921,
+          "deletions": 162
+        },
+        "9a2c88761cf7fe79d52b0c8a351e6dfb4a1738da": {
+          "additions": 2170,
+          "deletions": 0
+        }
+      }
+    },
+    "pavelhaliata/weather-forecast": {
+      "fingerprint": [
+        "2025-01-29T10:20:22Z",
+        "main"
+      ],
+      "commits": {
+        "ae51a0a5643f2db669f279a8e8f5cd6eb2b858b0": {
+          "additions": 29,
+          "deletions": 2
+        },
+        "9ab7a7e9d62f3d581b94c259e063fce7badb4e21": {
+          "additions": 36,
+          "deletions": 29
+        },
+        "1b5f3750ac5b66f3971ac0dedbab5841baea4a7d": {
+          "additions": 0,
+          "deletions": 19
+        },
+        "0e83fb3b2b03cd436f8e147b9a334b5cb7a31731": {
+          "additions": 60,
+          "deletions": 26
+        },
+        "90b4dcbbfa10a737dc9074c65152eee93afeb742": {
+          "additions": 2,
+          "deletions": 1
+        },
+        "d3d98fdd8971991377b1adf93301a95e0ee63fd4": {
+          "additions": 2,
+          "deletions": 1
+        },
+        "4210d363975b00a303b062e4009ec9b0b349b56a": {
+          "additions": 210,
+          "deletions": 300
+        },
+        "cf848c07586f7f1c78b62dfbcac942d2a04de172": {
+          "additions": 1,
+          "deletions": 1
+        },
+        "b633fbadc0891e0a49476a63054a64c6b3350595": {
+          "additions": 1,
+          "deletions": 5385
+        },
+        "10ad672d4e79df25e4468badda1729c9a5dbfac9": {
+          "additions": 224,
+          "deletions": 141
+        },
+        "753c38541efe42d1143b74f02d6b0db9e9a1190a": {
+          "additions": 2,
+          "deletions": 2
+        },
+        "283faf27924ce4c3f0347615337ade3ddb885bb0": {
+          "additions": 51,
+          "deletions": 0
+        },
+        "f7ae28b27ae2a43dfe14096e27b27d13cc21bdc6": {
+          "additions": 0,
+          "deletions": 51
+        },
+        "98167c3ed01fe64404a1aaf6dac6c034d94411f8": {
+          "additions": 51,
+          "deletions": 0
+        },
+        "f8031eb96ab4ae2dd3df8e949964789505185c00": {
+          "additions": 1,
+          "deletions": 52
+        },
+        "11e44830cf92fa2cb70c152dfa30a996b6dfd999": {
+          "additions": 51,
+          "deletions": 0
+        },
+        "f327b2b54223867361daed210a00a8e62fd88049": {
+          "additions": 0,
+          "deletions": 51
+        },
+        "868c8053edbaf0610e5793957dbad5861c83fed8": {
+          "additions": 1,
+          "deletions": 1
+        },
+        "9e22e8b3305ceb14b92595a0015dfbc84b363385": {
+          "additions": 0,
+          "deletions": 1
+        },
+        "3a5cc4fb99309d119707a9ee69daefeacb1fc191": {
+          "additions": 1,
+          "deletions": 1
+        },
+        "3e643866ab1b7715a88229d2f20974166f99a3fc": {
+          "additions": 0,
+          "deletions": 0
+        },
+        "59677ee58b599808793df7af7d7c23ff7ebb7b58": {
+          "additions": 4,
+          "deletions": 780
+        },
+        "955e375f897719624688430e33bcf887f86279b2": {
+          "additions": 51,
+          "deletions": 0
+        },
+        "8a65cb63ee86c4825339c6abfe93bea856193cae": {
+          "additions": 834,
+          "deletions": 62
+        },
+        "85df8557f4471f88649b9e72dbd2be9eb5e93765": {
+          "additions": 232,
+          "deletions": 215
+        },
+        "9ba26402ea3f282c5f3a4e7c804c5546b6d07c30": {
+          "additions": 58,
+          "deletions": 251
+        },
+        "c42a8a85d01a2bd8ba480359eef0df88d7c581cb": {
+          "additions": 1536,
+          "deletions": 1407
+        },
+        "68911a64bfbc3954510e32dc5d4e9f50303eef8e": {
+          "additions": 297,
+          "deletions": 233
+        },
+        "2037f6ec2c05cd2cfa9127a8d14d13cb454b2df1": {
+          "additions": 15,
+          "deletions": 0
+        },
+        "930216e45646f18c8d9544b4052097f337403a61": {
+          "additions": 1851,
+          "deletions": 1612
+        },
+        "eb69579aa422c6afe32143365d9ec945f720ef79": {
+          "additions": 143,
+          "deletions": 136
+        },
+        "3084bcf760ef4e80f2153a0eca01f2c3c012cd7a": {
+          "additions": 70,
+          "deletions": 89
+        },
+        "4c9b8a1606354a4176e34ac1dd9ee5d0eaca79eb": {
+          "additions": 88,
+          "deletions": 49
+        },
+        "7aacdd7a546aa27943830cfb06f3f816412d4884": {
+          "additions": 271,
+          "deletions": 102
+        },
+        "121fc8c1f20299425ee9e6fb655bf27a82286ce4": {
+          "additions": 148,
+          "deletions": 85
+        },
+        "79f2efa937f00c3d1ee3aa9a8fff01e9ac8a3a4c": {
+          "additions": 276,
+          "deletions": 40
+        },
+        "da167be6964b258bad014e6df465e216e0c85cb1": {
+          "additions": 1469,
+          "deletions": 72
+        },
+        "fb6e8eee8a2ff837d001c6e4997e3ed7970253a7": {
+          "additions": 6567,
+          "deletions": 1476
+        },
+        "b5cd7fa1aced5b6b9c57ef936b6c614b524b4816": {
+          "additions": 2063,
+          "deletions": 0
+        }
+      }
+    }
+  }
+}

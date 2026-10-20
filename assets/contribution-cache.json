@@ -714,13 +714,6 @@
         }
       }
     },
-    "pavelhaliata/pavelhaliata": {
-      "fingerprint": [
-        "2026-10-20T16:51:17Z",
-        "main"
-      ],
-      "commits": {}
-    },
     "pavelhaliata/portfolio": {
       "fingerprint": [
         "2025-10-04T09:46:41Z",
@@ -2040,6 +2033,13 @@
           "deletions": 0
         }
       }
+    },
+    "pavelhaliata/pavelhaliata": {
+      "fingerprint": [
+        "2026-10-20T17:40:45Z",
+        "main"
+      ],
+      "commits": {}
     }
   }
 }

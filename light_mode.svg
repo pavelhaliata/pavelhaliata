@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="985" height="530" viewBox="0 0 985 530" role="img" aria-labelledby="title desc">
-<title id="title">Pavel Haliata — Frontend Developer — React, TypeScript, Next.js, Astro</title><desc id="desc">Text portrait of Pavel Haliata. 14 public repositories, 0 stars, 3 followers. Profile: github.com/pavelhaliata. Updated 2026-10-20.</desc>
+<title id="title">Pavel Haliata — Frontend Developer — React, TypeScript, Next.js, Astro</title><desc id="desc">Text portrait of Pavel Haliata. 14 public repositories, 0 stars, 3 followers. Profile: github.com/pavelhaliata. Updated 2026-10-21.</desc>
 <style>text {font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; white-space: pre; font-weight: 400;}</style>
 <rect width="985" height="530" fill="#f6f8fa" rx="15"/>
 <g xml:space="preserve">
@@ -59,6 +59,6 @@
 <text x="390" y="430" font-size="14" textLength="554.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#6e7781">. </tspan><tspan fill="#a65316">Repos</tspan><tspan fill="#24292f">: </tspan><tspan fill="#6e7781">............ </tspan><tspan fill="#0550ae">14</tspan><tspan fill="#24292f"> {</tspan><tspan fill="#a65316">Contributed</tspan><tspan fill="#24292f">: </tspan><tspan fill="#0550ae">14</tspan><tspan fill="#24292f">}</tspan><tspan fill="#24292f"> | </tspan><tspan fill="#6e7781"></tspan><tspan fill="#a65316">Stars</tspan><tspan fill="#24292f">: </tspan><tspan fill="#6e7781">............ </tspan><tspan fill="#0550ae">0</tspan></text>
 <text x="390" y="450" font-size="14" textLength="554.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#6e7781">. </tspan><tspan fill="#a65316">Commits</tspan><tspan fill="#24292f">: </tspan><tspan fill="#6e7781">........................... </tspan><tspan fill="#0550ae">479</tspan><tspan fill="#24292f"> | </tspan><tspan fill="#6e7781"></tspan><tspan fill="#a65316">Followers</tspan><tspan fill="#24292f">: </tspan><tspan fill="#6e7781">........ </tspan><tspan fill="#0550ae">3</tspan></text>
 <text x="390" y="470" font-size="14" textLength="554.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#6e7781">. </tspan><tspan fill="#a65316">Lines of Code on GitHub</tspan><tspan fill="#24292f">: </tspan><tspan fill="#6e7781">........ </tspan><tspan fill="#0550ae">150,242</tspan><tspan fill="#24292f"> (</tspan><tspan fill="#1a7f37">768,238++</tspan><tspan fill="#24292f">, </tspan><tspan fill="#cf222e">617,996--</tspan><tspan fill="#24292f">)</tspan></text>
-<text x="390" y="510" font-size="14" textLength="151.20" lengthAdjust="spacingAndGlyphs"><tspan fill="#6e7781">Updated 2026-10-20</tspan></text>
+<text x="390" y="510" font-size="14" textLength="151.20" lengthAdjust="spacingAndGlyphs"><tspan fill="#6e7781">Updated 2026-10-21</tspan></text>
 </g>
 </svg>

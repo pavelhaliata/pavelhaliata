@@ -739,6 +739,50 @@
         }
       }
     },
+    "pavelhaliata/portfolio-v2": {
+      "fingerprint": [
+        "2026-10-24T11:08:10Z",
+        "main"
+      ],
+      "commits": {
+        "abeb718f4239acef9e41895060ba89e803cac97b": {
+          "additions": 32,
+          "deletions": 23
+        },
+        "c50cfb296ac20e4b8b1f0b3842bd691c5faef514": {
+          "additions": 69,
+          "deletions": 17
+        },
+        "2f00786013d8e001bcf1e709947c615a7256f504": {
+          "additions": 1,
+          "deletions": 1
+        },
+        "edf34255c1260bb3b2c74816d49e4a139341701f": {
+          "additions": 1,
+          "deletions": 1
+        },
+        "a8b79f7ac18f37eac14594b74ba76c5cdf78ae06": {
+          "additions": 3,
+          "deletions": 0
+        },
+        "f37f0b3e5f533326ae1aaed35783abe5cb701910": {
+          "additions": 3,
+          "deletions": 44
+        },
+        "1aa4dc3038365d61fc73945824d97de3c51ce34b": {
+          "additions": 0,
+          "deletions": 0
+        },
+        "40a0bc7153506950bc54a0b0f1bdd653566f6215": {
+          "additions": 1512,
+          "deletions": 274
+        },
+        "aa1a32c2b5759bb5a8e0dbfc34f278b0a95852ca": {
+          "additions": 1512,
+          "deletions": 274
+        }
+      }
+    },
     "pavelhaliata/progect_outdoor_advertising": {
       "fingerprint": [
         "2022-12-29T13:27:48Z",
@@ -2037,57 +2081,13 @@
     },
     "pavelhaliata/pavelhaliata": {
       "fingerprint": [
-        "2026-10-24T10:53:58Z",
+        "2026-10-25T11:21:03Z",
         "main"
       ],
       "commits": {
         "81e2874b77ad7cb8974b7124261e085dd8f81029": {
           "additions": 2694,
           "deletions": 0
-        }
-      }
-    },
-    "pavelhaliata/portfolio-v2": {
-      "fingerprint": [
-        "2026-10-24T11:08:10Z",
-        "main"
-      ],
-      "commits": {
-        "abeb718f4239acef9e41895060ba89e803cac97b": {
-          "additions": 32,
-          "deletions": 23
-        },
-        "c50cfb296ac20e4b8b1f0b3842bd691c5faef514": {
-          "additions": 69,
-          "deletions": 17
-        },
-        "2f00786013d8e001bcf1e709947c615a7256f504": {
-          "additions": 1,
-          "deletions": 1
-        },
-        "edf34255c1260bb3b2c74816d49e4a139341701f": {
-          "additions": 1,
-          "deletions": 1
-        },
-        "a8b79f7ac18f37eac14594b74ba76c5cdf78ae06": {
-          "additions": 3,
-          "deletions": 0
-        },
-        "f37f0b3e5f533326ae1aaed35783abe5cb701910": {
-          "additions": 3,
-          "deletions": 44
-        },
-        "1aa4dc3038365d61fc73945824d97de3c51ce34b": {
-          "additions": 0,
-          "deletions": 0
-        },
-        "40a0bc7153506950bc54a0b0f1bdd653566f6215": {
-          "additions": 1512,
-          "deletions": 274
-        },
-        "aa1a32c2b5759bb5a8e0dbfc34f278b0a95852ca": {
-          "additions": 1512,
-          "deletions": 274
         }
       }
     }

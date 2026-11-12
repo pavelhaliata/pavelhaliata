@@ -5,4 +5,4 @@
   </picture>
 </a>
 
-[LinkedIn](https://linkedin.com/in/pavel-haliata)
+[Email](mailto:pavelvladimirovichvs@gmail.com) · [LinkedIn](https://linkedin.com/in/pavel-haliata)
